@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @anoopsimon
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently learning GoLang , Temporal , Google Cloud
+- 💞️ I’m looking to collaborate on Test Automation framework development
+- 📫 How to reach me anoop.simon@anz.com
+- 😄 Pronouns: None
+- ⚡ Fun fact: None
